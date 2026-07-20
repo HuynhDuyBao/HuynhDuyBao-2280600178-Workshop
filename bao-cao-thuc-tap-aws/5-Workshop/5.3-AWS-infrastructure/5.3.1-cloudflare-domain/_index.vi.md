@@ -46,9 +46,11 @@ Không nên để production redirect sang `localhost` hoặc URL EC2 dạng IP 
 3. Kiểm tra API `/api/...` không bị lỗi CORS.
 4. Kiểm tra console browser không còn lỗi mixed content do gọi `http://`.
 
-{{% notice info %}}
-Cần thêm ảnh: Cloudflare DNS record, SSL/TLS mode, website `https://netflop.win` truy cập thành công và console không còn lỗi CORS/mixed content.
-{{% /notice %}}
+<img width="1534" height="732" alt="DNSrecord" src="https://github.com/user-attachments/assets/540b4416-2f64-4493-af50-fd479ace4831" />
+
+
+<img width="1533" height="705" alt="console" src="https://github.com/user-attachments/assets/8335c459-aa77-4438-90fc-8139c3bc6466" />
+
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách thực hiện DNS trên Cloudflare
