@@ -63,9 +63,8 @@ aws s3 ls s3://netflop-input-source
 aws s3 ls s3://netflop-output-source
 ```
 
-{{% notice info %}}
-Cần thêm ảnh: danh sách hai bucket S3, object video gốc trong input, thư mục HLS output, ảnh avatar/banner trên S3 và màn hình upload file lớn ở admin.
-{{% /notice %}}
+<img width="1534" height="574" alt="s3ouput" src="https://github.com/user-attachments/assets/ec47e4af-67e2-4464-a4cd-c8bf53bb6d37" />
+<img width="1534" height="549" alt="s3input" src="https://github.com/user-attachments/assets/b10e9e25-d349-4baa-a6fd-028d23cdac13" />
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách thực hiện upload lên S3
