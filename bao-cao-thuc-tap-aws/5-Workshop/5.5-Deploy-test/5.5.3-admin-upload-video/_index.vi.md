@@ -58,9 +58,12 @@ Với video khoảng 5GB, cần xác nhận:
 * Người dùng phát được video qua CloudFront.
 * Admin nhìn thấy tiến trình và kết quả hoàn thành ngay trên UI.
 
-{{% notice info %}}
-Cần thêm ảnh: admin upload video, thanh tiến trình upload/processing/completed, object S3 input, MediaConvert job Complete, HLS output, bảng tập phim trạng thái hoàn thành và player phát tập vừa upload.
-{{% /notice %}}
+<img width="1497" height="628" alt="adminup3" src="https://github.com/user-attachments/assets/0170462b-5456-475e-9041-bbeff00a6e6c" />
+<img width="1534" height="709" alt="adminup2" src="https://github.com/user-attachments/assets/be289231-bfe2-4383-8e94-d6e8baa89387" />
+<img width="1534" height="705" alt="adminup1" src="https://github.com/user-attachments/assets/7f9d8610-2ca8-4e6b-955b-c1dd825402ad" />
+<img width="1533" height="733" alt="adminput1" src="https://github.com/user-attachments/assets/0741af40-a433-490f-a1ab-cb2749dc31bf" />
+<img width="1520" height="681" alt="adminin1" src="https://github.com/user-attachments/assets/0bb1c117-54fe-488b-b6ce-dbddccba157a" />
+
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách thực hiện upload tập phim trong admin
