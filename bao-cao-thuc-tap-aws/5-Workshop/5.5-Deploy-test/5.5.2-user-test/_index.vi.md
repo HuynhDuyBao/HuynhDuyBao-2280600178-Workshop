@@ -39,9 +39,12 @@ Các điểm cần kiểm tra riêng:
 
 Người dùng có thể xem phim ổn định trên desktop và điện thoại, không gặp lỗi CORS/mixed content, không lộ raw stream URL trong thông báo lỗi, và dữ liệu cá nhân được tách theo từng tài khoản.
 
-{{% notice info %}}
-Cần thêm ảnh: homepage desktop, homepage mobile, movie card dạng slide ngang, trang chi tiết phim, player desktop/mobile, phụ đề đang bật, tiếp tục xem theo tài khoản và trang hồ sơ/avatar.
-{{% /notice %}}
+<img width="1534" height="821" alt="home" src="https://github.com/user-attachments/assets/21f28798-75be-4cc3-9bb5-ab89d6cc49c0" />
+<img width="1529" height="792" alt="tieptucxem2" src="https://github.com/user-attachments/assets/438bd33e-9524-47bd-addc-e702fec5c654" />
+<img width="1528" height="805" alt="tieptucxem" src="https://github.com/user-attachments/assets/e5ffc911-2f26-4051-9e91-87a84e5845b8" />
+<img width="1534" height="786" alt="movierun" src="https://github.com/user-attachments/assets/6effc59c-5a37-45c3-8842-1bca9ed1209e" />
+<img width="1512" height="820" alt="moviedetail" src="https://github.com/user-attachments/assets/23a6b9e3-61b6-4828-bf0d-af86406491a2" />
+
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách thực hiện chức năng tiếp tục xem
