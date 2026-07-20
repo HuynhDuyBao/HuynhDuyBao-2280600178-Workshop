@@ -1,44 +1,42 @@
 ---
 title: "Events Participated"
-date: 2024-01-01
+date: 2026-07-04
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
+During my internship in the **First Cloud AI Journey** program, I participated in two events related to AWS, Cloud, AI, and career development in the technology industry. These events helped me broaden my perspective beyond the Netflop project, understand how enterprises apply Cloud and AI, and identify the skills I need to prepare for my future career.
 
-> In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
-> 
-> Each event should be presented in the format Event 1, Event 2, Event 3…, along with the following details:
-> * Event name
-> * Date and time
-> * Location (if applicable)
-> * Your role in the event (attendee, event support, speaker, etc.)
-> * A brief description of the event’s content and main activities
-> * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
-> * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
+### Event Overview
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+| Event | Event Name | Time | Location | Role |
+| --- | --- | --- | --- | --- |
+| [Event 1](4.1-Event1/) | FCAJ Community Day - June 2026 | 09:00, June 27, 2026 | 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City | Attendee |
+| [Event 2](4.2-Event2/) | AWS: Enterprise Cloud Architectures and Industry Application | 09:00, June 13, 2026 | 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City | Attendee |
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** Workshop FLOCI - AI Workflow & Agent Platform  
+### Event 1: FCAJ Community Day - June 2026
 
-&emsp;**Date & Time:** 09:00, May 30, 2026  
+**FCAJ Community Day - June 2026** focused on **AI** and **Cloud** trends in real-world environments in Vietnam. Key topics included Voice AI in enterprises, DevOps AI Agent, Amazon Q, and AI applications in human resource management.
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+Through this event, I gained a clearer understanding of how AI can support different departments, from technical teams to non-technical teams. In particular, the sessions about DevOps AI Agent and Amazon Q showed me how AI can optimize operations, reduce incident handling time, and improve work productivity.
 
-&emsp;**Role:** Attendee  
+### Event 2: AWS: Enterprise Cloud Architectures and Industry Application
 
----
+**AWS: Enterprise Cloud Architectures and Industry Application** focused on enterprise Cloud architecture, Cloud market trends in Vietnam, and career orientation for students. The speakers shared practical perspectives on Cloud talent demand, recruitment culture, differences between academic projects and enterprise work, and the importance of networking.
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** FCAJ Community Day
+This event helped me realize that technical skills alone are not enough to grow in the IT industry. Learners also need problem-solving mindset, communication with business teams, proactive profile building, and a strong growth mindset.
 
-&emsp;**Date & Time:** 09:00, June 26, 2026
+### Value Gained
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+After attending both events, I learned several important lessons:
 
-&emsp;**Role:** Attendee  
+* Cloud and AI are becoming important foundations for enterprise digital transformation.
+* IT professionals need to understand both technology and business value to design suitable solutions.
+* Networking, asking questions, and proactively sharing ideas can create career opportunities.
+* AI is a powerful supporting tool, but strong fundamentals are still required to use it effectively.
+* Personal projects such as Netflop should be optimized, expanded, and presented well to become strengths during interviews.
+
+### Conclusion
+
+The two events added practical knowledge to my internship journey. While the workshop helped me practice deploying a system on AWS, these events helped me understand the bigger picture of the Cloud/AI industry, enterprise recruitment, and the skills I need to prepare for my future career path.
