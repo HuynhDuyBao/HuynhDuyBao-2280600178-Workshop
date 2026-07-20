@@ -27,8 +27,5 @@ RDS MySQL stores Netflop's main data: accounts, movies, episodes, subtitles, wat
 
 {{% notice warning %}}
 RDS is noted as public accessible. The improvement direction is to restrict its Security Group so only EC2 can access RDS.
-{{% /notice %}}
-
-{{% notice info %}}
-Image needed: RDS database, endpoint, Security Group, and successful movie data API.
-{{% /notice %}}
+<img width="1514" height="680" alt="security gr" src="https://github.com/user-attachments/assets/85d9bcce-cf23-4597-9638-961e4f076ea8" />
+<img width="1520" height="684" alt="rds" src="https://github.com/user-attachments/assets/1425bd13-7e71-4545-87dd-67ea6e99df2a" />
