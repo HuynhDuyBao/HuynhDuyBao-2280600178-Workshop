@@ -62,9 +62,10 @@ EC2 cần mở các cổng tối thiểu:
 
 Nếu dùng Systems Manager Session Manager thì có thể hạn chế SSH hơn nữa.
 
-{{% notice info %}}
-Cần thêm ảnh: EC2 instance running, Security Group inbound, trạng thái Nginx, `pm2 status` và response API health check.
-{{% /notice %}}
+<img width="1514" height="680" alt="security gr" src="https://github.com/user-attachments/assets/3e1d76f0-d365-4064-aba5-62c1094c13f7" />
+<img width="836" height="425" alt="ngix status" src="https://github.com/user-attachments/assets/7258ac4f-1cfe-41d5-99d3-07f1457e09a6" />
+<img width="1530" height="653" alt="ec2running" src="https://github.com/user-attachments/assets/de89a17d-6be0-4fed-8970-6fa32880b280" />
+
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách cài và kiểm tra EC2
