@@ -78,6 +78,8 @@ curl -I https://netflop.win
 
 Trong trình duyệt, mở DevTools -> Console. Nếu không còn lỗi CORS hoặc mixed content, domain production đã được cấu hình đúng.
 
+(/pic/CW2.png)
+
 #### Lưu ý cho OAuth
 
 Nếu dùng Google/Cognito, callback URL phải đổi sang domain thật:
