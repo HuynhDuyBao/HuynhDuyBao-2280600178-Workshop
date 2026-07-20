@@ -10,9 +10,6 @@ pre: " <b> 5. </b> "
 
 This workshop describes how to deploy and test the **Netflop** movie website on AWS. The current architecture includes **Cloudflare domain `netflop.win`**, **EC2/Nginx**, **React frontend**, **Node.js backend API**, **RDS MySQL**, **S3 input/output**, **MediaConvert**, **CloudFront**, **Lambda**, **EventBridge**, **CloudWatch**, **SNS**, and **Systems Manager**.
 
-{{% notice info %}}
-Image needed: overall Netflop architecture diagram: Cloudflare -> EC2/Nginx -> RDS/S3 -> MediaConvert -> CloudFront -> Video Player.
-{{% /notice %}}
 
 #### Contents
 
