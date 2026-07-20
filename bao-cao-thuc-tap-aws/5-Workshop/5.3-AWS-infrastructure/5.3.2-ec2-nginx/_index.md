@@ -29,6 +29,7 @@ pm2 status
 pm2 logs
 ```
 
-{{% notice info %}}
-Image needed: EC2 instance, Security Group, Nginx running, and PM2/backend running.
-{{% /notice %}}
+<img width="1530" height="653" alt="ec2running" src="https://github.com/user-attachments/assets/2eff03bf-a377-4a53-803a-100974030c59" />
+<img width="1514" height="680" alt="security gr" src="https://github.com/user-attachments/assets/d00c0456-a9ed-49c5-a4d3-927feecbf8b1" />
+<img width="836" height="425" alt="ngix status" src="https://github.com/user-attachments/assets/b204e162-527a-4707-ab2f-68f6fe4fa22f" />
+
