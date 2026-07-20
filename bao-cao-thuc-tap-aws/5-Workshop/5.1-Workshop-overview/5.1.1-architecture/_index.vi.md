@@ -97,10 +97,8 @@ Lambda chuyển .srt sang .vtt nếu cần
    v
 Video Player load subtitle track
 ```
+<img width="1209" height="724" alt="sodo" src="https://github.com/user-attachments/assets/9f5a4529-7ca9-46d0-9e7f-9b207ed84c1f" />
 
-{{% notice info %}}
-Cần thêm ảnh: sơ đồ luồng truy cập chính; sơ đồ upload video -> MediaConvert -> CloudFront; sơ đồ EventBridge -> Lambda -> Backend webhook; sơ đồ phụ đề SRT -> VTT.
-{{% /notice %}}
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách thực hiện kiến trúc
