@@ -42,9 +42,9 @@ AWS Systems Manager hỗ trợ gửi lệnh đến EC2 từ AWS CLI, giúp deplo
 * PM2 hiển thị process backend online.
 * Nginx test config thành công.
 
-{{% notice info %}}
-Cần thêm ảnh: lệnh deploy thành công, `pm2 status`, `sudo systemctl status nginx`, output health check và giao diện website sau deploy.
-{{% /notice %}}
+<img width="836" height="425" alt="ngix status" src="https://github.com/user-attachments/assets/22861f36-2d63-4081-bb6a-cb3252b94206" />
+<img width="1520" height="660" alt="pm2 status" src="https://github.com/user-attachments/assets/db1469c7-d0e2-4c35-9406-b8ea905db568" />
+
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách deploy frontend
