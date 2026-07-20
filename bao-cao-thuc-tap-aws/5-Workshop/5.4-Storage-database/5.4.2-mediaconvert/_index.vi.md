@@ -73,9 +73,9 @@ Frontend admin hiển thị thanh tiến trình theo các giai đoạn: upload l
 4. Vào S3 output kiểm tra file `index.m3u8` và segment.
 5. Mở tập phim trên web để kiểm tra player.
 
-{{% notice info %}}
-Cần thêm ảnh: MediaConvert job detail, input S3 path, output HLS path, job status COMPLETE và thanh tiến trình upload/convert trong admin.
-{{% /notice %}}
+<img width="1533" height="692" alt="hls" src="https://github.com/user-attachments/assets/30e69aab-0e37-4007-bbf0-ce75b2b23edc" />
+<img width="1505" height="597" alt="mediaconvert" src="https://github.com/user-attachments/assets/5f12c55e-5760-4565-83a9-dca11802d7f5" />
+
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách thực hiện MediaConvert job
