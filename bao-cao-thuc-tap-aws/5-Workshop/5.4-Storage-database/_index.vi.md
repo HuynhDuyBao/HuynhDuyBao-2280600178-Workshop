@@ -7,10 +7,11 @@ pre: " <b> 5.4. </b> "
 ---
 
 Phần này tập trung vào pipeline media của Netflop. Đây là phần quan trọng nhất của website xem phim vì admin cần upload video dung lượng lớn, hệ thống tự convert sang HLS nhiều chất lượng, lưu output lên S3 và phát qua CloudFront.
+<img width="1533" height="550" alt="inputsub" src="https://github.com/user-attachments/assets/603d3387-9549-4941-a4d9-cc58e8eeeb9d" />
+<img width="1533" height="802" alt="player1" src="https://github.com/user-attachments/assets/d89ead67-c06c-4621-a4a1-e8e3c8541d9a" />
+<img width="1525" height="605" alt="outputsub" src="https://github.com/user-attachments/assets/3f212e68-dc4a-4d31-86d3-52ffac4c40f4" />
+<img width="1534" height="549" alt="lamda" src="https://github.com/user-attachments/assets/132763b1-a0b7-4744-8218-3332ec516752" />
 
-{{% notice info %}}
-Cần thêm ảnh: S3 input/output buckets, MediaConvert job hoàn thành, CloudFront HLS distribution, Lambda subtitle converter và video player đang phát phim.
-{{% /notice %}}
 
 #### Nội dung
 
