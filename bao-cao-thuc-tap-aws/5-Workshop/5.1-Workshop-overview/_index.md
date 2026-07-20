@@ -8,9 +8,6 @@ pre: " <b> 5.1. </b> "
 
 This section introduces the overall AWS architecture of **Netflop** and the role of each service group. It helps explain the web access flow, HLS video processing flow, and automatic episode status update flow.
 
-{{% notice info %}}
-Image needed: overall Netflop AWS architecture diagram.
-{{% /notice %}}
 
 #### Contents
 
