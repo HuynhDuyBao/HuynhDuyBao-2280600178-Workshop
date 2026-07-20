@@ -78,7 +78,7 @@ curl -I https://netflop.win
 
 Trong trình duyệt, mở DevTools -> Console. Nếu không còn lỗi CORS hoặc mixed content, domain production đã được cấu hình đúng.
 
-<img width="1529" height="749" alt="cw2" src="https://github.com/user-attachments/assets/0c523e9a-d001-4979-a877-8309952c46dc" />
+
 
 
 #### Lưu ý cho OAuth
