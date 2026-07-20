@@ -59,9 +59,9 @@ API này dùng để xử lý một số trường hợp cần proxy media/phụ
 5. Kiểm tra request `/api/stream/session` trả cookie hợp lệ.
 6. Kiểm tra player tải `index.m3u8` và segment qua HTTPS.
 
-{{% notice info %}}
-Cần thêm ảnh: CloudFront distribution, origin S3 output, behavior/cookie policy nếu có, request `/api/stream/session`, video player phát HLS thành công và console không lộ raw S3 URL trong thông báo lỗi.
-{{% /notice %}}
+<img width="1485" height="709" alt="cf2" src="https://github.com/user-attachments/assets/4a658fd7-076f-4960-89af-3e224ea2b76c" />
+<img width="1533" height="802" alt="player1" src="https://github.com/user-attachments/assets/7092bae1-fe58-4c31-9800-6b09fcc122d6" />
+<img width="1301" height="636" alt="cloudfront1" src="https://github.com/user-attachments/assets/180ad1ab-5505-4689-a0ae-5189becf91bb" />
 
 <!-- NETFLOP_DETAIL_START -->
 #### Cách bảo vệ stream bằng signed cookies
